@@ -1,0 +1,1 @@
+Voici le corps à imprimer en 0.2, il faut mettre des insert en laiton pour M6 ( le diamètre des trous est de 8mm ). Il nécessite des supports donc à imprimer en PETG / PLA pour que ce soit plus facile.
